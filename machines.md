@@ -12,3 +12,10 @@ and formats here:
 - **Formats**: .VIP, .VP3 possibly others.
 - **Can do test patterns/photos**: Yes
 - **Can do short runs**: Ask, and possibly chip in for thread/postage :)
+
+### @AnnaGerber
+- **Machine**: Brother SE400
+- **Hoop sizes**: 4" x 4"
+- **Formats**: .PES, .DST
+- **Can do test patterns/photos**: Yes
+- **Can do short runs**: Yes, but only tiny runs (this machine is very slow)
