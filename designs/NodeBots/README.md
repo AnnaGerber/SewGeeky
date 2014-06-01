@@ -2,6 +2,10 @@
 
 This is a work in progress, does not stitch well yet.
 
+## Size
+
+22mm x 22.8 mm
+
 ## Creator
 Digitised by @AnnaGerber
 
